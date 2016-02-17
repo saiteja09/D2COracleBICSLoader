@@ -1,8 +1,7 @@
 # D2COracleBICSLoader
-Upload data from various datasources to Oracle BI Cloud Service powered by DataDirect Cloud
+Upload data from various datasources(SaaS and On-premise) to Oracle BI Cloud Service powered by DataDirect Cloud
 
-#Instructions to use the micro app
-
+####Instructions to use the micro app
 
 1.	Run the Oracle BI Cloud Loader application using the command java –jar D2COracleBICSLoader.jar
 2. Enter your DataDirect credentials and Oracle BICS credentials and Oracle BICS endpoint URL when prompted. The endpoint URL will be similar to following pattern: https://businessintell-<orgdomain>.analytics.<region>.oraclecloud.com

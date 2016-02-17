@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="D2COracleBICSLoader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/D2COracleBICSLoader_jar</output-path>
+    <root id="archive" name="D2COracleBICSLoader.jar">
+      <element id="module-output" name="D2COracleBICSLoader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/Apache Olingo/commons-codec-commons-codec-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/Apache Olingo/javax.ws.rs-javax.ws.rs-api-2.0-m10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/java-json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/Apache Olingo/com.google.code.gson-gson-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/Apache Olingo/org.apache.olingo-olingo-odata2-api-annotation-2.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/httpmime-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/httpcore-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Progress/DataDirect/Cloud_for_JDBC_20/lib/ddcloud.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/Apache Olingo/org.apache.olingo-olingo-odata2-api-2.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/Apache Olingo/org.apache.olingo-olingo-odata2-core-2.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/apache-httpcomponents-httpclient.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/commons-logging-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
